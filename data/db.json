@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "title": "Avengers: Age of Ultron",
+      "summary": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.\n\n",
+      "time": "02:45",
+      "id": 1
+    },
+    {
+      "title": "Whiplash",
+      "summary": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.\n\n",
+      "time": "12:30",
+      "id": 2
+    },
+    {
+      "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "summary": "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+      "time": "09:00",
+      "id": 3
+    },
+    {
+      "title": "Transformers: Revenge of the Fallen",
+      "summary": "Sam Witwicky leaves the Autobots behind for a normal life. But when his mind is filled with cryptic symbols, the Decepticons target him and he is dragged back into the Transformers' war.",
+      "time": "12:30",
+      "id": 4
+    },
+    {
+      "title": "Murder on the Orient Express",
+      "summary": "Genius Belgian detective Hercule Poirot investigates the murder of an American tycoon aboard the Orient Express train.",
+      "time": "02:45",
+      "id": 5
+    }
+  ]
+}
